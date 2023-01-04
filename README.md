@@ -1,4 +1,4 @@
-Every time I do an nmap scan, I run three commands;
+Every time I do an nmap scan, I run these 4 commands;
 
 ```shell
 $ sudo nmap -v -T4 $ip                                                # Query the top 1000 ports
